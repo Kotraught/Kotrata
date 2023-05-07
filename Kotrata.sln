@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{25D2A30E-F7B6-4B66-8A97-7C55E13E7394}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Kotrata", "Kotrata\Kotrata.vcxproj", "{9CF91B8F-D120-4AD0-91AF-8F2E551DFCE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CF91B8F-D120-4AD0-91AF-8F2E551DFCE2}.Debug|x64.ActiveCfg = Debug|x64
+		{9CF91B8F-D120-4AD0-91AF-8F2E551DFCE2}.Debug|x64.Build.0 = Debug|x64
+		{9CF91B8F-D120-4AD0-91AF-8F2E551DFCE2}.Release|x64.ActiveCfg = Release|x64
+		{9CF91B8F-D120-4AD0-91AF-8F2E551DFCE2}.Release|x64.Build.0 = Release|x64
+		{25D2A30E-F7B6-4B66-8A97-7C55E13E7394}.Debug|x64.ActiveCfg = Debug|x64
+		{25D2A30E-F7B6-4B66-8A97-7C55E13E7394}.Debug|x64.Build.0 = Debug|x64
+		{25D2A30E-F7B6-4B66-8A97-7C55E13E7394}.Release|x64.ActiveCfg = Release|x64
+		{25D2A30E-F7B6-4B66-8A97-7C55E13E7394}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E98EFD56-B147-4E3C-857D-08A1E92D1524}
+	EndGlobalSection
+EndGlobal
